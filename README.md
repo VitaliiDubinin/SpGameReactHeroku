@@ -12,6 +12,8 @@ and enjoy it!
 You can download the code from
 https://github.com/VitaliiDubinin/react_class_tasks/tree/master/light_circle_app
 
+### That Repo is for training in to deploy ReacktApp to the Heroku
+
 ### Thanks
 
 That code was creaed as a part of practical tasks due studying
