@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e6c834d7.css",
+    "main.js": "./static/js/main.b55bbf3b.js",
+    "static/js/787.3d2ac257.chunk.js": "./static/js/787.3d2ac257.chunk.js",
+    "static/media/02 Story.flac": "./static/media/02 Story.99e14e8df131e092d47f.flac",
+    "static/media/01. Sega Intro.flac": "./static/media/01. Sega Intro.97c8bc964a27240db86a.flac",
+    "static/media/briefcase-lock-1.wav": "./static/media/briefcase-lock-1.91331ecb0a7c2fc973dd.wav",
+    "index.html": "./index.html",
+    "main.e6c834d7.css.map": "./static/css/main.e6c834d7.css.map",
+    "main.b55bbf3b.js.map": "./static/js/main.b55bbf3b.js.map",
+    "787.3d2ac257.chunk.js.map": "./static/js/787.3d2ac257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c834d7.css",
+    "static/js/main.b55bbf3b.js"
+  ]
+}

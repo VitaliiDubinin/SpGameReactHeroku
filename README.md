@@ -1,0 +1,20 @@
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### Runs the app. \
+
+Open https://public.bc.fi/s2200119/SpeedGame/ in your browser.
+and enjoy it!
+
+### Code source
+
+You can download the code from
+https://github.com/VitaliiDubinin/react_class_tasks/tree/master/light_circle_app
+
+### Thanks
+
+That code was creaed as a part of practical tasks due studying
+on FullStackDevelopment Programm Business College Helsinki https://www.bc.fi
+
+Greate Thanks for our teachers Margit and Kalwar!!!
