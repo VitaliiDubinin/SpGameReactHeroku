@@ -10,7 +10,7 @@ and enjoy it!
 ### Code source
 
 You can download the code from
-https://github.com/VitaliiDubinin/react_class_tasks/tree/master/light_circle_app
+https://github.com/VitaliiDubinin/SpeedGame_React.git
 
 ### That Repo is for training in to deploy ReacktApp to the Heroku
 
